@@ -2,7 +2,7 @@ import PortfolioModel from "../models/Portfolio.js";
 
 export const create  = async (req, res) => {
     try {
-        const {title, mainImage, url, price, category, technology, tags} = req.body;
+        const {title, mainImage, images, url, price, category, technology, description, tags} = req.body;
         
         const project = await PortfolioModel.create({
             title,
