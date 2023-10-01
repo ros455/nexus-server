@@ -335,7 +335,7 @@ const desc = [
         ],
             "en": [
                 "Adaptive design",
-                "Payment system",,
+                "Payment system",
                 "Admin panel",
                 "Client's personal account",
                 "Chat"

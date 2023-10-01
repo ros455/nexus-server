@@ -7,10 +7,12 @@ export const create  = async (req, res) => {
         const project = await PortfolioModel.create({
             title,
             mainImage,
+            images,
             url,
             price,
             category,
             technology,
+            description,
             tags
         })
 
