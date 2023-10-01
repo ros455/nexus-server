@@ -6,7 +6,8 @@ const PortfolioSchema = new mongoose.Schema({
     images: [String],
     url: String,
     price: Number,
-    category: String,
+    categoryUa: String,
+    categoryEn: String,
     technology: String,
     description: {
         ua: String,

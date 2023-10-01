@@ -5,7 +5,8 @@ const desc = [
         "images": ["BusTicket.png"],
         "url":"",
         "price": 0,
-        "category":"Платформи",
+        "categoryUa":"Платформи",
+        "categoryEn":"Platforms",
         "technology":"",
         "description": {
             "ua": "ua text",
@@ -40,7 +41,8 @@ const desc = [
         "images": ["ClubMarket.png"],
         "url":"",
         "price": 0,
-        "category":"Лендінги",
+        "categoryUa":"Лендінги",
+        "categoryEn":"Landings",
         "technology":"",
         "description": {
             "ua": "ua text",
@@ -62,6 +64,7 @@ const desc = [
         "url":"",
         "price": 0,
         "category":"Платформи",
+        "categoryEn":"Platforms",
         "technology":"",
         "description": {
             "ua": "ua text",
@@ -88,7 +91,8 @@ const desc = [
         "images": ["Design.png"],
         "url":"",
         "price": 0,
-        "category":"Платформи",
+        "categoryUa":"Платформи",
+        "categoryEn":"Platforms",
         "technology":"",
         "description": {
             "ua": "ua text",
@@ -114,6 +118,7 @@ const desc = [
         "url":"",
         "price": 0,
         "category":"Магазини",
+        "categoryEn":"Shops",
         "technology":"",
         "description": {
             "ua": "ua text",
@@ -142,7 +147,8 @@ const desc = [
         "images": ["LaMandarine.png"],
         "url":"",
         "price": 0,
-        "category":"Лендінги",
+        "categoryUa":"Лендінги",
+        "categoryEn":"Landings",
         "technology":"",
         "description": {
             "ua": "ua text",
@@ -168,6 +174,7 @@ const desc = [
         "url":"",
         "price": 0,
         "category":"Лендінги",
+        "categoryEn":"Landings",
         "technology":"",
         "description": {
             "ua": "ua text",
@@ -194,7 +201,8 @@ const desc = [
         "images": ["Narwal-lending.png"],
         "url":"",
         "price": 0,
-        "category":"Лендінги",
+        "categoryUa":"Лендінги",
+        "categoryEn":"Landings",
         "technology":"",
         "description": {
             "ua": "ua text",
@@ -217,7 +225,8 @@ const desc = [
         "images": ["Ponto-print.png"],
         "url":"",
         "price": 0,
-        "category":"B2B",
+        "categoryUa":"B2B",
+        "categoryEn":"B2B",
         "technology":"",
         "description": {
             "ua": "ua text",
@@ -246,7 +255,8 @@ const desc = [
         "images": ["Shower-cabin.png"],
         "url":"",
         "price": 0,
-        "category":"B2B",
+        "categoryUa":"B2B",
+        "categoryEn":"B2B",
         "technology":"",
         "description": {
             "ua": "ua text",
@@ -273,7 +283,8 @@ const desc = [
         "images": ["Trident.png"],
         "url":"",
         "price": 0,
-        "category":"Корпоративні сайти",
+        "categoryUa":"Корпоративні сайти",
+        "categoryEn":"Corporate sites",
         "technology":"",
         "description": {
             "ua": "ua text",
@@ -295,6 +306,7 @@ const desc = [
         "url":"",
         "price": 0,
         "category":"Магазини",
+        "categoryEn":"Shops",
         "technology":"",
         "description": {
             "ua": "ua text",
@@ -319,7 +331,8 @@ const desc = [
         "images": ["YesOr.png"],
         "url":"",
         "price": 0,
-        "category":"Платформи",
+        "categoryUa":"Платформи",
+        "categoryEn":"Platforms",
         "technology":"",
         "description": {
             "ua": "ua text",
