@@ -63,7 +63,7 @@ const desc = [
         "images": ["Daiwo.png"],
         "url":"",
         "price": 0,
-        "category":"Платформи",
+        "categoryUa":"Платформи",
         "categoryEn":"Platforms",
         "technology":"",
         "description": {
@@ -117,7 +117,7 @@ const desc = [
         "images": ["Iphone.png"],
         "url":"",
         "price": 0,
-        "category":"Магазини",
+        "categoryUa":"Магазини",
         "categoryEn":"Shops",
         "technology":"",
         "description": {
@@ -173,7 +173,7 @@ const desc = [
         "images": ["Lending-generators.png"],
         "url":"",
         "price": 0,
-        "category":"Лендінги",
+        "categoryUa":"Лендінги",
         "categoryEn":"Landings",
         "technology":"",
         "description": {
@@ -305,7 +305,7 @@ const desc = [
         "images": ["Watch.png"],
         "url":"",
         "price": 0,
-        "category":"Магазини",
+        "categoryUa":"Магазини",
         "categoryEn":"Shops",
         "technology":"",
         "description": {
